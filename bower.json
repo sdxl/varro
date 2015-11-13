@@ -1,0 +1,20 @@
+{
+  "name": "varro",
+  "version": "0.0.0",
+  "homepage": "https://github.com/sdxl/varro",
+  "authors": [
+    "sdx"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.3.5",
+    "react": "~0.14.2"
+  }
+}
